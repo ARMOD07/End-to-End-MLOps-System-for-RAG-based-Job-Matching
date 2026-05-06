@@ -75,4 +75,6 @@ class JobMatcher:
     def _generate_suggestions(self, missing_keywords: set) -> list:
         """Generate improvement suggestions"""
         return [f"Consider learning or highlighting experience with {kw}" 
-                for kw in missing_keywords]
+                for kw in missing_keywords] 
+        
+        
