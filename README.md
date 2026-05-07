@@ -113,7 +113,7 @@ app_port: 8000
 
 ```bash
 git clone https://github.com/ARMOD07/End-to-End-MLOps-System-for-RAG-based-Job-Matching 
-cd job-matching-mlops
+cd End-to-End-MLOps-System-for-RAG-based-Job-Matching 
 
 python -m venv .venv && source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
